@@ -1,6 +1,14 @@
 # 🛒 E-Commerce Website
 
-![E-commerce Preview](https://i.ibb.co/W6g39w3/image.png)
+
+### 📌 Home Page:
+![Home Page](img.jpg)
+
+---
+
+### 📌 Product Page:
+![Product Page](img1.jpg)
+
 
 A fully functional **E-commerce website** built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This app supports **authentication**, product search, category filters, and an optimized user experience.
 
